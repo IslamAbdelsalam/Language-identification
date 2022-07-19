@@ -3,7 +3,8 @@ This project will Identify Languages like:
 Arabic, English, French, German, Spanish.
 
 
-Tools:
+## Tools
+
 [Python3](www.python.org)
 
 liberaries we used:  
@@ -14,7 +15,16 @@ liberaries we used:
 Supervised learning algorithms:  
 [naive_bayed.](https://scikit-learn.org/stable/modules/naive_bayes.html)
 
+### Steps
+![](/steps/1.jpg)
+![](/steps/2.jpg)
+![](/steps/3.jpg)
+![](/steps/4.jpg)
+![](/steps/5.jpg)
+![](/steps/6.jpg)
 
+
+## Try it by yourself:
 
 
 
