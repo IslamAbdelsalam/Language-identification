@@ -1,0 +1,7 @@
+Diese Systeme stützen sich auf algorithmische Gleichungen, die mit Patientendaten gefüttert werden, sodass diese Gleichungen die Wahrscheinlichkeit einer Genesung oder eines erneuten Auftretens der Krankheit vorhersagen können.
+
+Das Forschungsteam stützte sich auf medizinische Daten von 657 Patienten in fünf britischen Krankenhäusern, um die Wahrscheinlichkeit vorherzusagen, dass Patienten nach Abschluss der Strahlentherapiephase erneut Lungenkrebszellen entwickeln. Zu den in das System eingespeisten Daten gehören Informationen wie Alter, Geschlecht und die Art des Krebstumors.
+
+Das neue System stuft Patienten hinsichtlich ihrer Wahrscheinlichkeit, erneut an der Krankheit zu erkranken, in Kategorien ein, zwischen hoch, mittel, eingeschränkt oder keine Möglichkeiten.
+
+Die Forscher kamen zu dem Schluss, dass Tumorgröße, Erkennungsstadium, Stärke der Strahlentherapie, Rauchen und Alter zu den wichtigsten Faktoren gehören, von denen algorithmische Gleichungen bei der Vorhersage des Schicksals des Patienten abhängen.

@@ -1,0 +1,7 @@
+These systems rely on algorithm equations that are fed with data for patients, so that these equations can predict the possibilities of patient recovery or repeat their disease again.
+
+The research team relied on medical data belonging to 657 patients in five British hospitals to predict the possibility of patients with cancerous cells in the lung again after passing the radiotherapy stage. Among the data that is fed in the system is information such as age, type and the nature of the cancerous tumor.
+
+The new system classifies patients into categories in terms of the risk of developing the disease again between large, medium, limited or non -existent possibilities.
+
+The researchers concluded that the size of the tumor, its discovery stage, the strength of radiotherapy, smoking and age is one of the most important factors on which algorithm equations depend on predicting the patient's fate.

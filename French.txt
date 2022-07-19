@@ -1,0 +1,7 @@
+Ces systèmes reposent sur des équations algorithmiques alimentées par les données des patients, de sorte que ces équations peuvent prédire les chances de guérison ou de récidive de la maladie.
+
+L'équipe de recherche s'est appuyée sur les données médicales de 657 patients dans cinq hôpitaux britanniques pour prédire les chances que les patients développent à nouveau des cellules cancéreuses du poumon après avoir passé l'étape de la radiothérapie. Parmi les données introduites dans le système figurent des informations telles que l'âge, le sexe et la nature de la tumeur cancéreuse.
+
+Le nouveau système classe les patients en catégories en fonction de leurs chances de contracter à nouveau la maladie, entre possibilités élevées, moyennes, limitées ou nulles.
+
+Les chercheurs ont conclu que la taille de la tumeur, le stade de détection, la force de la radiothérapie, le tabagisme et l'âge sont parmi les facteurs les plus importants dont dépendent les équations algorithmiques pour prédire le sort du patient.
