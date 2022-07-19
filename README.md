@@ -25,7 +25,7 @@ Supervised learning algorithms:
 
 
 ## Try it by yourself:
-
+[**Colab-Language-identification**](https://colab.research.google.com/drive/1Y2tEPXGwwDuDve-ecfoY7ZLilqFQOuIy?usp=sharing)
 
 
 
