@@ -1,0 +1,7 @@
+Estos sistemas se basan en ecuaciones algorítmicas alimentadas con datos de pacientes, de modo que estas ecuaciones pueden predecir las posibilidades de que los pacientes se recuperen o recurran a la enfermedad nuevamente.
+
+El equipo de investigación se basó en datos médicos de 657 pacientes en cinco hospitales británicos para predecir las posibilidades de que los pacientes desarrollen células de cáncer de pulmón nuevamente después de pasar la etapa de radioterapia. Entre los datos que ingresan al sistema se encuentran información como la edad, el sexo y la naturaleza del tumor canceroso.
+
+El nuevo sistema clasifica a los pacientes en categorías según sus posibilidades de volver a contraer la enfermedad, entre posibilidades altas, medias, limitadas o nulas.
+
+Los investigadores concluyeron que el tamaño del tumor, el estadio de detección, la potencia de la radioterapia, el tabaquismo y la edad se encuentran entre los factores más importantes de los que dependen las ecuaciones algorítmicas para predecir el destino del paciente.
